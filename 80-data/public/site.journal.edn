@@ -1,0 +1,5 @@
+[["verizon-site-1" :site/url "https://www.verizon.com" 1 :add]
+ ["verizon-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["verizon-site-1" :site/http-status 200 1 :add]
+ ["verizon-site-1" :site/title "Verizon: Wireless, Internet, TV and Phone Services | Official Site" 1 :add]
+ ["verizon-site-1" :site/description "Shop Verizon smartphone deals and wireless plans on the largest 4G LTE network. First to 5G. Get Fios for the fastest internet, TV and phone service." 1 :add]]
